@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://mangolivebugil.pages.dev/sitemap.xml
